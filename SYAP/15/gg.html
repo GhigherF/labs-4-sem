@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Валидация формы</title>
+    <link rel="stylesheet" href="gg.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Форма</h2>
+    <form id="myForm">
+        <label>Фамилия:
+            <input type="text" id="lastName">
+            <span class="error" id="lastNameError"></span>
+        </label>
+
+        <label>Имя:
+            <input type="text" id="firstName">
+            <span class="error" id="firstNameError"></span>
+        </label>
+
+        <label>E-mail:
+            <input type="email" id="email">
+            <span class="error" id="emailError"></span>
+        </label>
+
+        <label>Телефон:
+            <input type="text" id="phone">
+            <span class="error" id="phoneError"></span>
+        </label>
+
+        <label>Город:</label>
+<select id="city">
+    <option value="Минск">Минск</option>
+    <option value="Брест">Брест</option>
+    <option value="Витебск">Витебск</option>
+    <option value="Гродно">Гродно</option>
+    <option value="Гомель">Гомель</option>
+    <option value="Могилёв">Могилёв</option>
+</select>
+
+
+        <label>На каком курсе Вы учитесь?</label>
+        <div class="radio-group">
+            <label><input type="radio" name="course" value="1"> 1</label>
+            <label><input type="radio" name="course" value="2"> 2</label>
+            <label><input type="radio" name="course" value="3"> 3</label>
+            <label><input type="radio" name="course" value="4"> 4</label>
+        </div>
+        
+        
+
+        <label>
+            Я учусь в БГТУ
+            <input type="checkbox" id="bstu"style = "width:10%"> 
+        </label>
+
+        <label>Расскажите о себе:
+            <textarea id="about"></textarea>
+            <span class="error" id="aboutError"></span>
+        </label>
+
+        <button type="submit">Проверить</button>
+    </form>
+</div>
+
+<script>
+   document.getElementById("myForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    let valid = true;
+
+    function showError(id, message) {
+        document.getElementById(id).innerText = message;
+    }
+
+    function clearErrors() {
+        document.querySelectorAll(".error").forEach(el => el.innerText = "");
+    }
+
+    clearErrors();
+
+    const namePattern = /^[а-яА-ЯёЁa-zA-Z]{1,20}$/;
+    const lastName = document.getElementById("lastName").value.trim();
+    const firstName = document.getElementById("firstName").value.trim();
+    if (!namePattern.test(lastName)) {
+        showError("lastNameError", "Только буквы, макс. 20 символов.");
+        valid = false;
+    }
+    if (!namePattern.test(firstName)) {
+        showError("firstNameError", "Только буквы, макс. 20 символов.");
+        valid = false;
+    }
+
+    const emailPattern = /^[^\s@]+@[a-zA-Z]{2,5}\.[a-zA-Z]{2,3}$/;
+    const email = document.getElementById("email").value.trim();
+    if (!emailPattern.test(email)) {
+        showError("emailError", "Неверный формат Email.");
+        valid = false;
+    }
+
+    const phonePattern = /^\(\d{3}\)\d{3}-\d{2}-\d{2}$/;
+    const phone = document.getElementById("phone").value.trim();
+    if (!phonePattern.test(phone)) {
+        showError("phoneError", "Формат: (0XX)XXX-XX-XX.");
+        valid = false;
+    }
+
+    const about = document.getElementById("about").value.trim();
+    if (about.length > 250) {
+        showError("aboutError", "Максимум 250 символов.");
+        valid = false;
+    }
+
+    const city = document.getElementById("city").value;
+    const course = document.querySelector('input[name="course"]:checked');
+    const bstuChecked = document.getElementById("bstu").checked;
+    
+     if (city !== "Минск" || course.value !== "3" || !bstuChecked) {
+        let confirmMessage = "Вы уверены в своём ответе?";
+        if (!confirm(confirmMessage)) {
+            return;
+        }
+    }
+
+    if (valid) {
+        alert("Форма успешно отправлена!");
+    }
+});
+
+</script>
+
+</body>
+</html>
