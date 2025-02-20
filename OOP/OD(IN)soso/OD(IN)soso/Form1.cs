@@ -16,7 +16,7 @@ namespace OD_IN_soso
         {
             InitializeComponent();
 
-
+            
 
             button2.Enabled=false;
             button3.Enabled = false;
