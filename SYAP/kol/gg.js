@@ -64,7 +64,7 @@ let nums2_2 = [3, 4];
 let nums1 = nums1_1.concat(nums1_2).sort((a, b) => a - b);
 let nums2 = nums2_1.concat(nums2_2).sort((a, b) => a - b);
 console.log(median(nums1));
-console.log(median(nums2));
+console.log(median);
 function median(nums) {
     if (nums.length % 2 == 0) {
         return (nums[nums.length / 2] + nums[nums.length / 2 - 1]) / 2;
