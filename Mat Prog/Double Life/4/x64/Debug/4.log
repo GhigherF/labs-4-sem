@@ -1,0 +1,82 @@
+﻿  Combi.cpp
+  Source.cpp
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(9,21): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "Combi.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(9,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Combi.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(9,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Combi.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(10,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "Combi.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(10,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Combi.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(10,26): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Combi.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(8,15): error C2039: "cgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(8,26): error C2061: синтаксическая ошибка: идентификатор "xcombination"
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(9,15): error C2039: "pgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(9,26): error C2061: синтаксическая ошибка: идентификатор "permutation"
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(16,15): error C2039: "cgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(17,15): error C2039: "pgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(18,15): error C2039: "cgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(26,39): error C2039: "cgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(26,56): error C2039: "pgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(26,68): error C7732: expected an expression before ']'
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(34,20): error C2039: "pgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(35,31): error C2039: "cgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.cpp(37,19): error C2039: "pgen": не является членом "combi::accomodation".
+      C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(4,13):
+       см. объявление "combi::accomodation"
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(9,21): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(9,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(9,27): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(10,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(10,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\4\Combi.h(10,26): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Source.cpp")
+  
+  Создание кода...

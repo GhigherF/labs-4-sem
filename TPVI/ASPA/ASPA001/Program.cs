@@ -25,7 +25,7 @@
 //app.Run();
 
 
-//internal class Program 
+//internal partial class Program
 //{
 //    private static void Main(string[] args)
 //    {

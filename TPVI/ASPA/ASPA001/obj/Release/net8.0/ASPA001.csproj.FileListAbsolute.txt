@@ -32,10 +32,4 @@ C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\obj\Release\net8.0\refint\
 C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\obj\Release\net8.0\ASPA001.pdb
 C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\obj\Release\net8.0\ASPA001.genruntimeconfig.cache
 C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\obj\Release\net8.0\ref\ASPA001.dll
-C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\bin\Release\net8.0\TEST\web.config
-C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\bin\Release\net8.0\TEST\appsettings.Development.json
-C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\bin\Release\net8.0\TEST\appsettings.json
-C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\bin\Release\net8.0\TEST\ASPA001.deps.json
-C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\bin\Release\net8.0\TEST\ASPA001.runtimeconfig.json
-C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\bin\Release\net8.0\TEST\ASPA001.staticwebassets.endpoints.json
 C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA\ASPA001\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
