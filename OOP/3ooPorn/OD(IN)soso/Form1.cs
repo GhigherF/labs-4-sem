@@ -52,10 +52,21 @@ namespace OD_IN_soso
             button3.Click += readFromFile;
 
 
-            //3
-            menuStrip1.Items["оПрограмме"].Click += gg; 
+
+            var gg = menuStrip1.Items[0];
+
+            if (gg is ToolStripMenuItem menuItem)
+            {
+                var arr = menuItem.DropDownItems;
+                arr[3].Click += ggg; 
+            }
+
+
+
+
 
         }
+        
 
 
         [Serializable]
@@ -73,9 +84,9 @@ namespace OD_IN_soso
         }
         
 
-        private void gg(object sender, EventArgs e)
+        private void ggg(object sender, EventArgs e)
         {
-            MessageBox.Show("Дмитроченко К.Д    version 1.0\nAll rights reserved");
+            MessageBox.Show("Дмитроченко К.Д    version 1.0\n           All rights reserved");
         }
         [Serializable]
         public class Lector
