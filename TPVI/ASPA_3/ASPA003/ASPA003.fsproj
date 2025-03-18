@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+	<ItemGroup>
+		<Reference Include="Repository">
+			<HintPath>C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\bin\Debug\net8.0\ASPA_3.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

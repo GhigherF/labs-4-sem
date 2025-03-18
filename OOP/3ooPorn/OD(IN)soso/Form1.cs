@@ -8,17 +8,27 @@ using System.Drawing;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static System.Net.Mime.MediaTypeNames;
+using static OD_IN_soso.Form1;
+using System.Linq;
 namespace OD_IN_soso
 {
     public partial class Form1 : Form
     {
+    
         List<Lector> lectors = new List<Lector>();
         Lector choice;
         public Form1()
         {
-            File.Delete("C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\DVA\\test.xml");
+            File.Delete("C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml");
             InitializeComponent();
 
+            using (FileStream fileStream = new FileStream(
+                "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml",
+                FileMode.Create, FileAccess.Write))
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(List<Lector>));
+                serializer.Serialize(fileStream, lectors);
+            }
             button1.Enabled = false;
             button2.Enabled = false;
             comboBox1.Items.Clear();
@@ -55,18 +65,32 @@ namespace OD_IN_soso
 
             var gg = menuStrip1.Items[0];
 
+
             if (gg is ToolStripMenuItem menuItem)
             {
                 var arr = menuItem.DropDownItems;
-                arr[3].Click += ggg; 
+                arr[3].Click += ggg;
+                arr[2].Click += save;
+
+
+                if (arr[1] is ToolStripMenuItem newMenuItem)
+                {
+                    var newArr = newMenuItem.DropDownItems;
+                    newArr[0].Click += nameSort;
+                    newArr[1].Click += fioSort;
+                }
+
+                if (arr[0] is ToolStripMenuItem newNewMenuItem)
+                {
+                    var newArr = newNewMenuItem.DropDownItems;
+                    newArr[0].Click += fullSearch;
+                }
             }
 
 
 
-
-
         }
-        
+
 
 
         [Serializable]
@@ -82,12 +106,18 @@ namespace OD_IN_soso
             public int price { get; set; }
             public Lector lector { get; set; }
         }
-        
+
 
         private void ggg(object sender, EventArgs e)
         {
             MessageBox.Show("Дмитроченко К.Д    version 1.0\n           All rights reserved");
         }
+        
+        private void fullSearch(object sender,EventArgs e)
+        {
+            MessageBox.Show("HUI");
+        }
+
         [Serializable]
         public class Lector
         {
@@ -109,6 +139,110 @@ namespace OD_IN_soso
 
         }
 
+private void nameSort(object sender, EventArgs e)
+    {
+        string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
+        
+        XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
+        using (StreamReader reader = new StreamReader(filePath))
+        {
+            List<Info> obj = (List<Info>)serializer.Deserialize(reader) ?? new List<Info>();
+
+            var sortedList = obj.OrderBy(info => info.name).ToList();
+
+            richTextBox1.Text = "";
+            foreach (var info in sortedList)
+            {
+                richTextBox1.Text += $"Name: {info.name}\nAge: {info.age}\nDifficulty: {info.difficulty}\nLectures: {info.lectures}\nLabs: {info.labs}\nExam: {info.exam}\nDate: {info.date}\nLector: {info.lector.name}\nPrice: {info.price}\n\n\n";
+            }
+        }
+    }
+
+    private void fioSort(object sender, EventArgs e)
+    {
+        string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
+
+        XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
+        using (StreamReader reader = new StreamReader(filePath))
+        {
+            List<Info> obj = (List<Info>)serializer.Deserialize(reader) ?? new List<Info>();
+            var sortedList = obj.OrderBy(info => info.lector != null ? info.lector.name : "").ToList();
+
+
+            richTextBox1.Text = "";
+            foreach (var info in sortedList)
+            {
+                richTextBox1.Text += $"Name: {info.name}\nAge: {info.age}\nDifficulty: {info.difficulty}\nLectures: {info.lectures}\nLabs: {info.labs}\nExam: {info.exam}\nDate: {info.date}\nLector: {info.lector.name}\nPrice: {info.price}\n\n\n";
+            }
+        }
+    }
+
+
+
+    public void save(object sender, EventArgs e)
+        {
+            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\TestIK.xml";
+
+            List<Info> infoList = new List<Info>();
+
+            string[] entries = richTextBox1.Text.Split(new string[] { "\n\n\n" }, StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (var entry in entries)
+            {
+                var lines = entry.Split(new string[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
+    
+                var info = new Info();
+                foreach (var line in lines)
+                {
+                    var parts = line.Split(new string[] { ": " }, StringSplitOptions.None);
+ 
+                    switch (parts[0])
+                    {
+                        case "Name":
+                            info.name = parts[1];
+                            break;
+                        case "Age":
+                            if (int.TryParse(parts[1], out int age))
+                                info.age = age;
+                            break;
+                        case "Difficulty":
+                            if (int.TryParse(parts[1], out int difficulty))
+                                info.difficulty = difficulty;
+                            break;
+                        case "Lectures":
+                            if (int.TryParse(parts[1], out int lectures))
+                                info.lectures = lectures;
+                            break;
+                        case "Labs":
+                            if (int.TryParse(parts[1], out int labs))
+                                info.labs = labs;
+                            break;
+                        case "Exam":
+                            info.exam = parts[1].ToLower() == "true";
+                            break;
+                        case "Date":
+                            info.date = parts[1];
+                            break;
+                        case "Lector":
+                            info.lector = new Lector { name = parts[1] };
+                            break;
+                        case "Price":
+                            if (int.TryParse(parts[1], out int price))
+                                info.price = price;
+                            break;
+                    }
+                }
+                infoList.Add(info);
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
+            using (StreamWriter writer = new StreamWriter(filePath))
+            {
+                serializer.Serialize(writer, infoList);
+            }
+
+            MessageBox.Show("Данные успешно сериализованы в файл.", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
 
         private void Validate(object sender, EventArgs e)
         {
@@ -178,7 +312,7 @@ namespace OD_IN_soso
         //}
         private void writeInFile(object sender, EventArgs e)
         {
-            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\DVA\\test.xml";
+            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
             List<Info> infoList = new List<Info>();
 
             if (File.Exists(filePath))
@@ -231,7 +365,7 @@ namespace OD_IN_soso
         private void readFromFile(object sender, EventArgs e)
         {
             richTextBox1.Text = "";
-            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\DVA\\test.xml";
+            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
 
             if (!File.Exists(filePath))
             {
@@ -253,7 +387,7 @@ namespace OD_IN_soso
 
                     foreach (var a in obj)
                     {
-                        richTextBox1.Text += $"Fio: {a.name}\nAge: {a.age}\nDifficulty: {a.difficulty}\nLectures: {a.lectures}\nLabs: {a.labs}\nExam: {a.exam}\nDate: {a.date} \nLector: {(a.lector != null ? a.lector.name : "Unknown")}\nPrice: {a.price}\n\n\n";
+                        richTextBox1.Text += $"Name: {a.name}\nAge: {a.age}\nDifficulty: {a.difficulty}\nLectures: {a.lectures}\nLabs: {a.labs}\nExam: {a.exam}\nDate: {a.date} \nLector: {(a.lector != null ? a.lector.name : "Unknown")}\nPrice: {a.price}\n\n\n";
                     }
                 }
             }
@@ -337,6 +471,21 @@ namespace OD_IN_soso
         }
 
         private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void возрастаниюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void поискToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void полныйToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

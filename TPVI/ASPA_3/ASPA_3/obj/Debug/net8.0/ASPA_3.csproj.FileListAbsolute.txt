@@ -1,0 +1,12 @@
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\bin\Debug\net8.0\ASPA_3.deps.json
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\bin\Debug\net8.0\ASPA_3.dll
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\bin\Debug\net8.0\ASPA_3.pdb
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.AssemblyInfoInputs.cache
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.AssemblyInfo.cs
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.csproj.CoreCompileInputs.cache
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.sourcelink.json
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.dll
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\refint\ASPA_3.dll
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ASPA_3.pdb
+C:\Users\ghigher\Desktop\labs-4-sem\TPVI\ASPA_3\ASPA_3\obj\Debug\net8.0\ref\ASPA_3.dll

@@ -63,9 +63,13 @@ namespace OD_IN_soso
             this.ggToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.поискToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.сортировкаПоToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.сохранитьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.возрастаниюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.датеЭкзаменаToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.сохранитьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.оПрограммеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.полныйToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.конструкторToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.регулярноеВыражениеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
@@ -408,17 +412,36 @@ namespace OD_IN_soso
             // 
             // поискToolStripMenuItem
             // 
+            this.поискToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.полныйToolStripMenuItem,
+            this.конструкторToolStripMenuItem,
+            this.регулярноеВыражениеToolStripMenuItem});
             this.поискToolStripMenuItem.Name = "поискToolStripMenuItem";
             this.поискToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.поискToolStripMenuItem.Text = "Поиск";
+            this.поискToolStripMenuItem.Text = "Поиск ";
+            this.поискToolStripMenuItem.Click += new System.EventHandler(this.поискToolStripMenuItem_Click);
             // 
             // сортировкаПоToolStripMenuItem
             // 
             this.сортировкаПоToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.возрастаниюToolStripMenuItem});
+            this.возрастаниюToolStripMenuItem,
+            this.датеЭкзаменаToolStripMenuItem1});
             this.сортировкаПоToolStripMenuItem.Name = "сортировкаПоToolStripMenuItem";
             this.сортировкаПоToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.сортировкаПоToolStripMenuItem.Text = "Сортировка по";
+            // 
+            // возрастаниюToolStripMenuItem
+            // 
+            this.возрастаниюToolStripMenuItem.Name = "возрастаниюToolStripMenuItem";
+            this.возрастаниюToolStripMenuItem.Size = new System.Drawing.Size(235, 26);
+            this.возрастаниюToolStripMenuItem.Text = "Названию предмета";
+            this.возрастаниюToolStripMenuItem.Click += new System.EventHandler(this.возрастаниюToolStripMenuItem_Click);
+            // 
+            // датеЭкзаменаToolStripMenuItem1
+            // 
+            this.датеЭкзаменаToolStripMenuItem1.Name = "датеЭкзаменаToolStripMenuItem1";
+            this.датеЭкзаменаToolStripMenuItem1.Size = new System.Drawing.Size(235, 26);
+            this.датеЭкзаменаToolStripMenuItem1.Text = "ФИО преподавателя";
             // 
             // сохранитьToolStripMenuItem
             // 
@@ -426,17 +449,30 @@ namespace OD_IN_soso
             this.сохранитьToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.сохранитьToolStripMenuItem.Text = "Сохранить";
             // 
-            // возрастаниюToolStripMenuItem
-            // 
-            this.возрастаниюToolStripMenuItem.Name = "возрастаниюToolStripMenuItem";
-            this.возрастаниюToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.возрастаниюToolStripMenuItem.Text = "Возрастанию";
-            // 
             // оПрограммеToolStripMenuItem
             // 
             this.оПрограммеToolStripMenuItem.Name = "оПрограммеToolStripMenuItem";
             this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.оПрограммеToolStripMenuItem.Text = "О программе";
+            // 
+            // полныйToolStripMenuItem
+            // 
+            this.полныйToolStripMenuItem.Name = "полныйToolStripMenuItem";
+            this.полныйToolStripMenuItem.Size = new System.Drawing.Size(257, 26);
+            this.полныйToolStripMenuItem.Text = "Полный по ФИО";
+            this.полныйToolStripMenuItem.Click += new System.EventHandler(this.полныйToolStripMenuItem_Click);
+            // 
+            // конструкторToolStripMenuItem
+            // 
+            this.конструкторToolStripMenuItem.Name = "конструкторToolStripMenuItem";
+            this.конструкторToolStripMenuItem.Size = new System.Drawing.Size(257, 26);
+            this.конструкторToolStripMenuItem.Text = "Конструктор";
+            // 
+            // регулярноеВыражениеToolStripMenuItem
+            // 
+            this.регулярноеВыражениеToolStripMenuItem.Name = "регулярноеВыражениеToolStripMenuItem";
+            this.регулярноеВыражениеToolStripMenuItem.Size = new System.Drawing.Size(257, 26);
+            this.регулярноеВыражениеToolStripMenuItem.Text = "Регулярное выражение";
             // 
             // Form1
             // 
@@ -526,6 +562,11 @@ namespace OD_IN_soso
         private System.Windows.Forms.ToolStripMenuItem сохранитьToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem возрастаниюToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem оПрограммеToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem датеЭкзаменаToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem полныйToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem конструкторToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem регулярноеВыражениеToolStripMenuItem;
     }
 }
 

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\Salesman\main.cpp(72,1): warning C4715: tsp: значение возвращается не при всех путях выполнения
+  Salesman.vcxproj -> C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\Double Life\x64\Debug\Salesman.exe

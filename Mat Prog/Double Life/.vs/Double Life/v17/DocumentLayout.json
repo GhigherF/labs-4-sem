@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|solutionrelative:Salesman\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|solutionrelative:Salesman\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\salesman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|solutionrelative:Salesman\\salesman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|solutionrelative:Salesman\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Salesman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF716538-40CB-4545-B9D8-0E11249ADA0E}|Salesman\\Salesman.vcxproj|solutionrelative:Salesman\\Salesman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D541C5DB-70D5-4414-9B32-063262FBDF74}|3\\3.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D541C5DB-70D5-4414-9B32-063262FBDF74}|3\\3.vcxproj|solutionrelative:3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E4FD1-8D60-40BB-9851-B757D39EB103}|5\\5.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B5E4FD1-8D60-40BB-9851-B757D39EB103}|5\\5.vcxproj|solutionrelative:2\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5E4FD1-8D60-40BB-9851-B757D39EB103}|5\\5.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B5E4FD1-8D60-40BB-9851-B757D39EB103}|5\\5.vcxproj|solutionrelative:5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26E34AE6-3078-4AE4-A82C-54855B9E5DB7}|,4\\,4.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\,4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{26E34AE6-3078-4AE4-A82C-54855B9E5DB7}|,4\\,4.vcxproj|solutionrelative:,4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D541C5DB-70D5-4414-9B32-063262FBDF74}|3\\3.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D541C5DB-70D5-4414-9B32-063262FBDF74}|3\\3.vcxproj|solutionrelative:3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33B3995A-761F-491F-859B-201BD7CA4FD2}|2\\2.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{26E34AE6-3078-4AE4-A82C-54855B9E5DB7}|,4\\,4.vcxproj|solutionrelative:,4\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33B3995A-761F-491F-859B-201BD7CA4FD2}|2\\2.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{33B3995A-761F-491F-859B-201BD7CA4FD2}|2\\2.vcxproj|solutionrelative:2\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D541C5DB-70D5-4414-9B32-063262FBDF74}|3\\3.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D541C5DB-70D5-4414-9B32-063262FBDF74}|3\\3.vcxproj|solutionrelative:3\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5446349-3E15-432C-B232-C1E2891D7094}|1\\1.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C5446349-3E15-432C-B232-C1E2891D7094}|1\\1.vcxproj|solutionrelative:1\\Combi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E4FD1-8D60-40BB-9851-B757D39EB103}|5\\5.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Boat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B5E4FD1-8D60-40BB-9851-B757D39EB103}|5\\5.vcxproj|solutionrelative:5\\Boat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26E34AE6-3078-4AE4-A82C-54855B9E5DB7}|,4\\,4.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\,4\\Combi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -74,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,43 +106,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Combi.cpp",
-              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.cpp",
-              "RelativeDocumentMoniker": "3\\Combi.cpp",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.cpp",
-              "RelativeToolTip": "3\\Combi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Combi.cpp",
+              "RelativeDocumentMoniker": "Salesman\\Combi.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Combi.cpp",
+              "RelativeToolTip": "Salesman\\Combi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T17:49:40.94Z"
+              "WhenOpened": "2025-03-12T12:52:28.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Combi.h",
-              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.h",
-              "RelativeDocumentMoniker": "3\\Combi.h",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.h",
-              "RelativeToolTip": "3\\Combi.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Combi.h",
+              "RelativeDocumentMoniker": "Salesman\\Combi.h",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Combi.h",
+              "RelativeToolTip": "Salesman\\Combi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-28T17:49:14.506Z"
+              "WhenOpened": "2025-03-12T12:51:57.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\main.cpp",
+              "RelativeDocumentMoniker": "Salesman\\main.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\main.cpp",
+              "RelativeToolTip": "Salesman\\main.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T12:51:01.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Source.cpp",
-              "RelativeDocumentMoniker": "3\\Source.cpp",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Source.cpp",
-              "RelativeToolTip": "3\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T17:49:03.44Z"
+              "Title": "salesman.h",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\salesman.h",
+              "RelativeDocumentMoniker": "Salesman\\salesman.h",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\salesman.h",
+              "RelativeToolTip": "Salesman\\salesman.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T12:50:18.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Salesman.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Salesman.cpp",
+              "RelativeDocumentMoniker": "Salesman\\Salesman.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\Salesman\\Salesman.cpp",
+              "RelativeToolTip": "Salesman\\Salesman.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T12:50:08.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Source.cpp",
               "RelativeDocumentMoniker": "2\\Source.cpp",
@@ -138,31 +181,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Boat.cpp",
-              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Boat.cpp",
-              "RelativeDocumentMoniker": "5\\Boat.cpp",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Boat.cpp",
-              "RelativeToolTip": "5\\Boat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Source.cpp",
+              "RelativeDocumentMoniker": "5\\Source.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Source.cpp",
+              "RelativeToolTip": "5\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T19:10:46.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Combi.cpp",
-              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Combi.cpp",
-              "RelativeDocumentMoniker": "1\\Combi.cpp",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Combi.cpp",
-              "RelativeToolTip": "1\\Combi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T17:40:07.478Z"
+              "WhenOpened": "2025-02-28T19:12:11.298Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Source.cpp",
+              "RelativeDocumentMoniker": "3\\Source.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Source.cpp",
+              "RelativeToolTip": "3\\Source.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T17:49:03.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Combi.h",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.h",
+              "RelativeDocumentMoniker": "3\\Combi.h",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.h",
+              "RelativeToolTip": "3\\Combi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T17:49:14.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Combi.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.cpp",
+              "RelativeDocumentMoniker": "3\\Combi.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\3\\Combi.cpp",
+              "RelativeToolTip": "3\\Combi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T17:49:40.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Combi.cpp",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\,4\\Combi.cpp",
               "RelativeDocumentMoniker": ",4\\Combi.cpp",
@@ -174,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Combi.h",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\,4\\Combi.h",
               "RelativeDocumentMoniker": ",4\\Combi.h",
@@ -186,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Source.cpp",
               "RelativeDocumentMoniker": "1\\Source.cpp",
@@ -198,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\,4\\Source.cpp",
               "RelativeDocumentMoniker": ",4\\Source.cpp",
@@ -210,32 +277,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Source.cpp",
-              "RelativeDocumentMoniker": "5\\Source.cpp",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Source.cpp",
-              "RelativeToolTip": "5\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-28T19:12:11.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Combi.cpp",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Combi.cpp",
               "RelativeDocumentMoniker": "2\\Combi.cpp",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Combi.cpp",
               "RelativeToolTip": "2\\Combi.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-28T17:44:20.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
+              "Title": "Combi.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Combi.cpp",
+              "RelativeDocumentMoniker": "1\\Combi.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Combi.cpp",
+              "RelativeToolTip": "1\\Combi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T17:40:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Boat.h",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Boat.h",
               "RelativeDocumentMoniker": "5\\Boat.h",
@@ -247,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Combi.h",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\2\\Combi.h",
               "RelativeDocumentMoniker": "2\\Combi.h",
@@ -259,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Combi.h",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\1\\Combi.h",
               "RelativeDocumentMoniker": "1\\Combi.h",
@@ -271,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Combi.h",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\Double Life\\5\\Combi.h",
               "RelativeDocumentMoniker": "5\\Combi.h",

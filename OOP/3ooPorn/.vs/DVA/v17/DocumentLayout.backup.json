@@ -3,19 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:10:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:10:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\od(in)soso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\DVA.csproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\DVA.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:9:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:9:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:8:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:8:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:7:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:7:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:6:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:6:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:5:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:5:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\od(in)soso\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -23,8 +47,8 @@
       "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\DVA.csproj|solutionrelative:od(in)soso\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\od(in)soso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:2:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\oop\\3ooporn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\3ooPorno.csproj|solutionrelative:od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4F0CE4-3612-4EDB-B8C1-BF2541D28355}|OD(IN)soso\\DVA.csproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\od(in)soso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -66,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
@@ -83,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\App.config",
               "RelativeDocumentMoniker": "OD(IN)soso\\App.config",
@@ -108,7 +132,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:16:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAIA9wNYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:50:45.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwE8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:47:21.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:47:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\App.config",
               "RelativeDocumentMoniker": "OD(IN)soso\\App.config",
@@ -121,45 +197,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.Designer.cs",
               "RelativeToolTip": "OD(IN)soso\\Form1.Designer.cs",
-              "ViewState": "AgIAAKoBAAAAAAAAAAAAAEIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAIwBAAAAAAAAAIA0wDMBAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T20:15:15.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs*",
-              "RelativeToolTip": "OD(IN)soso\\Form1.cs*",
-              "ViewState": "AgIAAE0AAAAAAAAAAAA1wFgAAABIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T11:28:08.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
-              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "OD(IN)soso\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T20:15:15.631Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:50:07.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
+              "RelativeToolTip": "OD(IN)soso\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:49:57.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
@@ -170,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.Designer.cs",
@@ -182,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.resx",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.resx",
@@ -193,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Program.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Program.cs",
@@ -205,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\App.config",
               "RelativeDocumentMoniker": "OD(IN)soso\\App.config",
@@ -217,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.resx",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.resx",
@@ -228,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Form1.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Form1.cs",
@@ -239,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\OD(IN)soso\\Program.cs",
               "RelativeDocumentMoniker": "OD(IN)soso\\Program.cs",

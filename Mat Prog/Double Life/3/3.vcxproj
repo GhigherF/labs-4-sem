@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\5\Boat.cpp" />
     <ClCompile Include="Combi.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>

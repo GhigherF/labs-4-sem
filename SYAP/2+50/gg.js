@@ -47,5 +47,5 @@ const studentsInGroup8 = group.studentFilter(10);
 console.log(studentsInGroup8);
 const studentsWithMark5 = group.markFilter(5);
 console.log(studentsWithMark5);
-//group.deleteStudent(2); // Удаляет студента с id 2 (Ivan)
+//group.deleteStudent(2); 
 //console.log(students);
