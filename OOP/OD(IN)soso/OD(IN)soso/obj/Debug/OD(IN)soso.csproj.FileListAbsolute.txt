@@ -7,4 +7,4 @@ C:\Users\ghigher\Desktop\labs-4-sem\OOP\OD(IN)soso\OD(IN)soso\obj\Debug\OD(IN)so
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\OD(IN)soso\OD(IN)soso\obj\Debug\OD(IN)soso.csproj.CoreCompileInputs.cache
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\OD(IN)soso\OD(IN)soso\obj\Debug\OD(IN)soso.exe
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\OD(IN)soso\OD(IN)soso\obj\Debug\OD(IN)soso.pdb
-C:\Users\ghigher\Desktop\labs-4-sem\OOP\OD(IN)soso\OD(IN)soso\obj\Debug\OD_IN_soso.Form1.resources
+C:\Users\ghigher\Desktop\labs-4-sem\OOP\OD(IN)soso\OD(IN)soso\obj\Debug\OD_IN_soso.Form2.resources

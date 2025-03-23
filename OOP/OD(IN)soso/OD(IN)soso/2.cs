@@ -8,11 +8,11 @@ using System.Windows.Forms;
 namespace OD_IN_soso
 {
    
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
         bool isTextBox2Empty = true;
         bool isTextBox3Empty = true;
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
 
@@ -216,6 +216,11 @@ namespace OD_IN_soso
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

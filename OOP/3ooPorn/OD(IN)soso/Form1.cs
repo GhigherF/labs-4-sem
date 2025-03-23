@@ -69,6 +69,10 @@ namespace OD_IN_soso
             if (gg is ToolStripMenuItem menuItem)
             {
                 var arr = menuItem.DropDownItems;
+                arr[0].Click += (object sender, EventArgs e) =>
+                {
+                    tabControl1.SelectTab(tabPage2);
+                };
                 arr[3].Click += ggg;
                 arr[2].Click += save;
 
@@ -83,7 +87,7 @@ namespace OD_IN_soso
                 if (arr[0] is ToolStripMenuItem newNewMenuItem)
                 {
                     var newArr = newNewMenuItem.DropDownItems;
-                    newArr[0].Click += fullSearch;
+                    //newArr[0].Click += fullSearch;
                 }
             }
 
@@ -139,47 +143,78 @@ namespace OD_IN_soso
 
         }
 
-private void nameSort(object sender, EventArgs e)
-    {
-        string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
-        
-        XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
-        using (StreamReader reader = new StreamReader(filePath))
+        private void nameSort(object sender, EventArgs e)
         {
-            List<Info> obj = (List<Info>)serializer.Deserialize(reader) ?? new List<Info>();
+            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
 
-            var sortedList = obj.OrderBy(info => info.name).ToList();
-
-            richTextBox1.Text = "";
-            foreach (var info in sortedList)
+            if (!File.Exists(filePath) || new FileInfo(filePath).Length == 0)
             {
-                richTextBox1.Text += $"Name: {info.name}\nAge: {info.age}\nDifficulty: {info.difficulty}\nLectures: {info.lectures}\nLabs: {info.labs}\nExam: {info.exam}\nDate: {info.date}\nLector: {info.lector.name}\nPrice: {info.price}\n\n\n";
+                MessageBox.Show("Файл отсутствует или пуст.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
+            using (StreamReader reader = new StreamReader(filePath))
+            {
+                List<Info> obj;
+                try
+                {
+                    obj = (List<Info>)serializer.Deserialize(reader) ?? new List<Info>();
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Ошибка при чтении файла.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                var sortedList = obj.OrderBy(info => info.name).ToList();
+
+                richTextBox1.Text = "";
+                foreach (var info in sortedList)
+                {
+                    richTextBox1.Text += $"Name: {info.name}\nAge: {info.age}\nDifficulty: {info.difficulty}\nLectures: {info.lectures}\nLabs: {info.labs}\nExam: {info.exam}\nDate: {info.date}\nLector: {(info.lector != null ? info.lector.name : "Unknown")}\nPrice: {info.price}\n\n\n";
+                }
             }
         }
-    }
 
-    private void fioSort(object sender, EventArgs e)
-    {
-        string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
-
-        XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
-        using (StreamReader reader = new StreamReader(filePath))
+        private void fioSort(object sender, EventArgs e)
         {
-            List<Info> obj = (List<Info>)serializer.Deserialize(reader) ?? new List<Info>();
-            var sortedList = obj.OrderBy(info => info.lector != null ? info.lector.name : "").ToList();
+            string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\test.xml";
 
-
-            richTextBox1.Text = "";
-            foreach (var info in sortedList)
+            if (!File.Exists(filePath) || new FileInfo(filePath).Length == 0)
             {
-                richTextBox1.Text += $"Name: {info.name}\nAge: {info.age}\nDifficulty: {info.difficulty}\nLectures: {info.lectures}\nLabs: {info.labs}\nExam: {info.exam}\nDate: {info.date}\nLector: {info.lector.name}\nPrice: {info.price}\n\n\n";
+                MessageBox.Show("Файл отсутствует или пуст.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Info>));
+            using (StreamReader reader = new StreamReader(filePath))
+            {
+                List<Info> obj;
+                try
+                {
+                    obj = (List<Info>)serializer.Deserialize(reader) ?? new List<Info>();
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Ошибка при чтении файла.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                var sortedList = obj.OrderBy(info => info.lector != null ? info.lector.name : "").ToList();
+
+                richTextBox1.Text = "";
+                foreach (var info in sortedList)
+                {
+                    richTextBox1.Text += $"Name: {info.name}\nAge: {info.age}\nDifficulty: {info.difficulty}\nLectures: {info.lectures}\nLabs: {info.labs}\nExam: {info.exam}\nDate: {info.date}\nLector: {(info.lector != null ? info.lector.name : "Unknown")}\nPrice: {info.price}\n\n\n";
+                }
             }
         }
-    }
 
 
 
-    public void save(object sender, EventArgs e)
+
+        public void save(object sender, EventArgs e)
         {
             string filePath = "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\OOP\\3ooPorn\\TestIK.xml";
 
@@ -486,6 +521,11 @@ private void nameSort(object sender, EventArgs e)
         }
 
         private void полныйToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
         {
 
         }

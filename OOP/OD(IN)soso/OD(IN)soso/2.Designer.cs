@@ -1,7 +1,7 @@
 ﻿
 namespace OD_IN_soso
 {
-    partial class Form1
+    partial class Form2
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -29,7 +29,7 @@ namespace OD_IN_soso
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -50,6 +50,7 @@ namespace OD_IN_soso
             this.radioButton4 = new System.Windows.Forms.RadioButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -130,7 +131,7 @@ namespace OD_IN_soso
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.8F);
             this.label3.Location = new System.Drawing.Point(442, 117);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(103, 32);
+            this.label3.Size = new System.Drawing.Size(102, 32);
             this.label3.TabIndex = 8;
             this.label3.Text = "-------->";
             // 
@@ -185,7 +186,7 @@ namespace OD_IN_soso
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.8F);
             this.label4.Location = new System.Drawing.Point(119, 273);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(31, 32);
+            this.label4.Size = new System.Drawing.Size(30, 32);
             this.label4.TabIndex = 14;
             this.label4.Text = "=";
             this.label4.Click += new System.EventHandler(this.label4_Click);
@@ -285,6 +286,7 @@ namespace OD_IN_soso
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "g";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.groupBox1.ResumeLayout(false);
@@ -315,6 +317,7 @@ namespace OD_IN_soso
         private System.Windows.Forms.RadioButton radioButton4;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.TextBox textBox6;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 
