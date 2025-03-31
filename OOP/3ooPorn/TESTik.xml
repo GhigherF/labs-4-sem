@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Info>
+    <name>ОАиП</name>
+    <age>16</age>
+    <difficulty>0</difficulty>
+    <lectures>1</lectures>
+    <labs>1</labs>
+    <exam>true</exam>
+    <date>29.03.2025 </date>
+    <price>35</price>
+    <lector>
+      <name>Белодед Николай Иванович</name>
+    </lector>
+  </Info>
+  <Info>
+    <name>ТПВИ</name>
+    <age>16</age>
+    <difficulty>0</difficulty>
+    <lectures>1</lectures>
+    <labs>1</labs>
+    <exam>false</exam>
+    <date>30.03.2025 </date>
+    <price>35</price>
+    <lector>
+      <name>Смелов Владимир Владиславович</name>
+    </lector>
+  </Info>
+</ArrayOfInfo>

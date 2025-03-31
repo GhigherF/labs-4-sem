@@ -3,30 +3,14 @@ import * as Code from './code.js';
 import { useState } from 'react';
 
 export function App() {
-    const [answer, setAnswer] = useState("");
   
     const Log=()=>
     (
         <label></label>
     );
-const Button = ({ value, func }) => {
-    const handleClick = () => {
-    //   const inputValue = document.querySelector("input").value;
-    //   if (inputValue == "")
-    //     {
-    //     setAnswer(Code.answer);
-    //     }
-        if (Code.isNum(value)) {
-          Code.Digit(value);
-        } else {
-            Code.Log(value);
-          func();
-
-        }
-    };
-  
+const Button = ({ value}) => {  
     return (
-      <button onClick={handleClick}>
+      <button>
         {value} 
       </button>
     );
@@ -58,13 +42,13 @@ const Button = ({ value, func }) => {
   );
 
   const Display = () => (
-    <input type="number"/>
+    <input type="text"/>
   );
 
   const Calculations = () => (
     <ul className="calc">
       <li>
-        <Button value="+" func={() => Code.Plus()} />
+        <Button value="+" />
       </li>
       <li>
         <Button value="-"/>

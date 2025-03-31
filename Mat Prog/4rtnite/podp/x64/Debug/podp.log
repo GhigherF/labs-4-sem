@@ -1,0 +1,8 @@
+﻿  podp.cpp
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\podp\podp.cpp(20,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\podp\podp.cpp(20,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\podp\podp.cpp(37,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\podp\podp.cpp(38,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\podp\podp.cpp(58,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\podp\podp.cpp(58,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  podp.vcxproj -> C:\Users\ghigher\Desktop\labs-4-sem\Mat Prog\4rtnite\x64\Debug\podp.exe

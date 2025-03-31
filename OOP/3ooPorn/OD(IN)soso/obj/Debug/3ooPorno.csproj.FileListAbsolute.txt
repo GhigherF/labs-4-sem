@@ -22,10 +22,12 @@ C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\bin\Debug\System.Text
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\bin\Debug\System.ValueTuple.xml
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\3ooPorno.csproj.AssemblyReference.cache
-C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\OD_IN_soso.Form1.resources
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\OD_IN_soso.Properties.Resources.resources
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\3ooPorno.csproj.GenerateResource.cache
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\3ooPorno.csproj.CoreCompileInputs.cache
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\3ooPorno.csproj.Up2Date
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\OD(IN)soso.exe
 C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\OD(IN)soso.pdb
+C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\OD_IN_soso.SearchForm.resources
+C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\obj\Debug\OD_IN_soso.Form1.resources
+C:\Users\ghigher\Desktop\labs-4-sem\OOP\3ooPorn\OD(IN)soso\bin\Debug\System.ComponentModel.Annotations.dll
