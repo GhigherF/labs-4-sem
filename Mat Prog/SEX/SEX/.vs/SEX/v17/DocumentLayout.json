@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\SEX\\SEX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B6A82A-C590-4E91-856E-9074EDE6488C}|SEX\\SEX.vcxproj|C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\SEX\\SEX\\SEX\\SIX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55B6A82A-C590-4E91-856E-9074EDE6488C}|SEX\\SEX.vcxproj|solutionrelative:SEX\\SIX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:965134208:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SIX.cpp",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\SEX\\SEX\\SEX\\SIX.cpp",
+              "RelativeDocumentMoniker": "SEX\\SIX.cpp",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\Mat Prog\\SEX\\SEX\\SEX\\SIX.cpp",
+              "RelativeToolTip": "SEX\\SIX.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T19:17:06.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

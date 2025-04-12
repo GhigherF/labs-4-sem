@@ -1,122 +1,104 @@
 [
   {
     "Id": 2,
-    "Name": "gg",
-    "Surname": "gg",
-    "PhotoPath": "gg"
+    "Name": "Tim",
+    "Surname": "Berners-Lee",
+    "PhotoPath": "Photo/Berners-Lee.jpg"
   },
   {
     "Id": 3,
-    "Name": null,
+    "Name": "Edgar",
     "Surname": "Codd",
-    "PhotoPath": "/Celebrities/Codd.jpg"
+    "PhotoPath": "Photo/Codd.jpg"
   },
   {
     "Id": 4,
-    "Name": null,
+    "Name": "Donald",
     "Surname": "Knuth",
-    "PhotoPath": "/Celebrities/Knuth.jpg"
+    "PhotoPath": "Photo/Knuth.jpg"
   },
   {
     "Id": 5,
-    "Name": null,
+    "Name": "Linus",
     "Surname": "Torvalds",
-    "PhotoPath": "/Celebrities/Torvalds.jpg"
+    "PhotoPath": "Photo/Torvalds.jpg"
   },
   {
     "Id": 6,
-    "Name": null,
+    "Name": "John",
     "Surname": "Neumann",
-    "PhotoPath": "/Celebrities/Neumann.jpg"
+    "PhotoPath": "Photo/Neumann.jpg"
   },
   {
     "Id": 7,
-    "Name": null,
+    "Name": "Edsger",
     "Surname": "Dijkstra",
-    "PhotoPath": "/Celebrities/Dijkstra.jpg"
+    "PhotoPath": "Photo/Dijkstra.jpg"
+  },
+  {
+    "Id": 8,
+    "Name": "gg",
+    "Surname": "ggg",
+    "PhotoPath": "gg"
+  },
+  {
+    "Id": 9,
+    "Name": "gg",
+    "Surname": "ggg",
+    "PhotoPath": "gg"
   },
   {
     "Id": 10,
-    "Name": "updated1",
-    "Surname": "updated1",
-    "PhotoPath": "Photo/Updated1.jpg"
+    "Name": "gg",
+    "Surname": "ggg",
+    "PhotoPath": "gg"
   },
   {
     "Id": 11,
-    "Name": "updated2",
-    "Surname": "updated2",
-    "PhotoPath": "Photo/Updated2.jpg"
+    "Name": null,
+    "Surname": "ggg",
+    "PhotoPath": "gg"
   },
   {
     "Id": 12,
     "Name": null,
-    "Surname": "Lovelace",
-    "PhotoPath": "/Photo/Lovelace/jpg"
+    "Surname": "ggg",
+    "PhotoPath": null
   },
   {
     "Id": 13,
-    "Name": "Ada",
-    "Surname": "Lovelace",
-    "PhotoPath": "/Photo/Lovelace/jpg"
+    "Name": "test",
+    "Surname": "Test",
+    "PhotoPath": "test"
   },
   {
     "Id": 14,
-    "Name": "Ada",
-    "Surname": "Lovelace",
-    "PhotoPath": "/Photo/Lovelace/jpg"
+    "Name": "test",
+    "Surname": "Testik",
+    "PhotoPath": "Photo/\u0420\u0435\u0441\u0443\u0440\u0441 1.png"
   },
   {
     "Id": 15,
-    "Name": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "/Photo/Lovelace.jpg"
+    "Name": "gg",
+    "Surname": "gg",
+    "PhotoPath": "Photo/Chomsky.jpg"
   },
   {
     "Id": 16,
-    "Name": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "/Photo/Lovelace.jpg"
+    "Name": "gg",
+    "Surname": "xx",
+    "PhotoPath": "Photo/Chomsky.jpg"
   },
   {
     "Id": 17,
-    "Name": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "/Photo/Lovelace.jpg"
+    "Name": "gg",
+    "Surname": "xxx",
+    "PhotoPath": "Photo/Chomskyjpg"
   },
   {
     "Id": 18,
-    "Name": "Charlse",
-    "Surname": "Babbage",
-    "PhotoPath": "/Photo/Lovelace.jpg"
-  },
-  {
-    "Id": 19,
-    "Name": "ForUpdate",
-    "Surname": "ForUpdate",
-    "PhotoPath": "/Photo/Forupdate.jpg"
-  },
-  {
-    "Id": 20,
     "Name": "gg",
-    "Surname": "gg",
-    "PhotoPath": "gg"
-  },
-  {
-    "Id": 21,
-    "Name": "gg",
-    "Surname": "gg",
-    "PhotoPath": "gg"
-  },
-  {
-    "Id": 22,
-    "Name": "gg",
-    "Surname": "gg",
-    "PhotoPath": null
-  },
-  {
-    "Id": 23,
-    "Name": "gg",
-    "Surname": "gg",
-    "PhotoPath": null
+    "Surname": "xxxx",
+    "PhotoPath": "Photo/Chomsky.jpg"
   }
 ]
