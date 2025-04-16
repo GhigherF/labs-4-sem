@@ -1,11 +1,5 @@
 [
   {
-    "Id": 2,
-    "Name": "Tim",
-    "Surname": "Berners-Lee",
-    "PhotoPath": "Photo/Berners-Lee.jpg"
-  },
-  {
     "Id": 3,
     "Name": "Edgar",
     "Surname": "Codd",
@@ -96,9 +90,15 @@
     "PhotoPath": "Photo/Chomskyjpg"
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "gg",
-    "Surname": "xxxx",
+    "Surname": "xHamster",
     "PhotoPath": "Photo/Chomsky.jpg"
+  },
+  {
+    "Id": 20,
+    "Name": "gg",
+    "Surname": "xHamsters",
+    "PhotoPath": "Photo/Chomskyjpg"
   }
 ]

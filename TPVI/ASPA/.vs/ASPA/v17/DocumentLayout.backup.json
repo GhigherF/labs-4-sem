@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4236A52E-493C-4564-81E4-7FE32C6E2F81}|ASpA_5_3\\ASpA_5_3.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4236A52E-493C-4564-81E4-7FE32C6E2F81}|ASpA_5_3\\ASpA_5_3.csproj|solutionrelative:aspa_5_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|solutionrelative:aspa_5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_2\\aspa_5_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|solutionrelative:aspa_5_2\\aspa_5_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|solutionrelative:aspa_5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_1\\aspa_5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|solutionrelative:aspa_5_1\\aspa_5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,18 +41,66 @@
               "Name": "ST:965134208:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASpA_5_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASpA_5_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASpA_5_3\\Program.cs",
+              "RelativeToolTip": "ASpA_5_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:52:43.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA_5_2\\Program.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\Program.cs",
+              "RelativeToolTip": "ASPA_5_2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:25:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASPA_5_1",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\ASPA_5_1.csproj",
+              "RelativeDocumentMoniker": "ASPA_5_1\\ASPA_5_1.csproj",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\ASPA_5_1.csproj",
+              "RelativeToolTip": "ASPA_5_1\\ASPA_5_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T07:25:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASPA_5_2",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\ASPA_5_2.csproj",
+              "RelativeDocumentMoniker": "ASPA_5_2\\ASPA_5_2.csproj",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\ASPA_5_2.csproj",
+              "RelativeToolTip": "ASPA_5_2\\ASPA_5_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T07:25:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\Program.cs",
               "RelativeDocumentMoniker": "ASPA_5_1\\Program.cs",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\Program.cs",
               "RelativeToolTip": "ASPA_5_1\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwDUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T14:01:01.402Z",
               "EditorCaption": ""

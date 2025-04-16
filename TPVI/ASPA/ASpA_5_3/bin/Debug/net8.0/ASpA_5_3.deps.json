@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASpA_5_3/1.0.0": {
+        "runtime": {
+          "ASpA_5_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASpA_5_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
