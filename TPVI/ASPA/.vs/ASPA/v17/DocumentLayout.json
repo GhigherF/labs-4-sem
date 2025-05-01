@@ -11,6 +11,22 @@
       "RelativeMoniker": "D:0:0:{4236A52E-493C-4564-81E4-7FE32C6E2F81}|ASpA_5_3\\ASpA_5_3.csproj|solutionrelative:aspa_5_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|solutionrelative:aspa_5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|solutionrelative:aspa_5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_1\\aspa_5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|solutionrelative:aspa_5_1\\aspa_5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_2\\aspa_5_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|solutionrelative:aspa_5_2\\aspa_5_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4236A52E-493C-4564-81E4-7FE32C6E2F81}|ASpA_5_3\\ASpA_5_3.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_3\\aspa_5_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4236A52E-493C-4564-81E4-7FE32C6E2F81}|ASpA_5_3\\ASpA_5_3.csproj|solutionrelative:aspa_5_3\\aspa_5_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -21,22 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{432686D7-6767-4067-ABCC-2ABF59D7B384}|Test_ASPA_5_3\\Test_ASPA_5_3.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\test_aspa_5_3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{432686D7-6767-4067-ABCC-2ABF59D7B384}|Test_ASPA_5_3\\Test_ASPA_5_3.csproj|solutionrelative:test_aspa_5_3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|solutionrelative:aspa_5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_2\\aspa_5_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC46BCBB-F12A-463A-A5A1-61CF5CE7CF9E}|ASPA_5_2\\ASPA_5_2.csproj|solutionrelative:aspa_5_2\\aspa_5_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|solutionrelative:aspa_5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\aspa\\aspa_5_1\\aspa_5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0FD55435-89F7-4B64-855B-59129B5825FF}|ASPA_5_1\\ASPA_5_1.csproj|solutionrelative:aspa_5_1\\aspa_5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +58,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ASpA_5_3",
+              "DocumentIndex": 6,
+              "Title": "ASpA_5_3.csproj",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASpA_5_3\\ASpA_5_3.csproj",
               "RelativeDocumentMoniker": "ASpA_5_3\\ASpA_5_3.csproj",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASpA_5_3\\ASpA_5_3.csproj",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\Test_ASPA_5_3\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Test_ASPA_5_3\\Properties\\launchSettings.json",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "Test_ASPA_5_3\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T20:49:06.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T20:49:06.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASpA_5_3\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ASpA_5_3\\Properties\\launchSettings.json",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "ASpA_5_3\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T20:48:20.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T20:48:20.457Z"
             },
             {
               "$type": "Document",
@@ -103,7 +101,7 @@
               "RelativeDocumentMoniker": "Test_ASPA_5_3\\Program.cs",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\Test_ASPA_5_3\\Program.cs",
               "RelativeToolTip": "Test_ASPA_5_3\\Program.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAxwGgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwGoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T19:58:22.356Z",
               "EditorCaption": ""
@@ -116,27 +114,27 @@
               "RelativeDocumentMoniker": "ASpA_5_3\\Program.cs",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASpA_5_3\\Program.cs",
               "RelativeToolTip": "ASpA_5_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T08:52:43.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\Program.cs",
               "RelativeDocumentMoniker": "ASPA_5_2\\Program.cs",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\Program.cs",
               "RelativeToolTip": "ASPA_5_2\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAByAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwCgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T07:25:08.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ASPA_5_1.csproj",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\ASPA_5_1.csproj",
               "RelativeDocumentMoniker": "ASPA_5_1\\ASPA_5_1.csproj",
@@ -149,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ASPA_5_2.csproj",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_2\\ASPA_5_2.csproj",
               "RelativeDocumentMoniker": "ASPA_5_2\\ASPA_5_2.csproj",
@@ -162,15 +160,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\Program.cs",
               "RelativeDocumentMoniker": "ASPA_5_1\\Program.cs",
               "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\ASPA\\ASPA_5_1\\Program.cs",
               "RelativeToolTip": "ASPA_5_1\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T14:01:01.402Z"
+              "WhenOpened": "2025-04-11T14:01:01.402Z",
+              "EditorCaption": ""
             }
           ]
         }

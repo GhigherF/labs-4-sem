@@ -1,7 +1,7 @@
 'use client'; 
 import Link from 'next/link';
 import { useState } from 'react';
-
+import {UsersData} from '../sign-up/page'
 
 
 export default function  SignIn(){ 
@@ -16,7 +16,6 @@ export default function  SignIn(){
         regex.test(event.target.value)?setEmailErrorVisibility(false):setEmailErrorVisibility(true);
         regex.test(event.target.value)?setEnabled(true):setEnabled(false);
     }
-
 
     function generatePassword(length = 12) {
         const lowercase = 'abcdefghijklmnopqrstuvwxyz';
@@ -46,11 +45,23 @@ export default function  SignIn(){
         return password;
     }
 
+    
     function Show()
     {
-        alert(`Пароль выслан на почту: ${email}`);
-        alert(`Новый пароль: ${generatePassword()}`);
-
+        let flag = false;
+         UsersData.forEach((user) => {
+            if (user.email === email) {
+               flag=true;
+            }
+    });
+        if (flag)
+        {
+            alert(`Новый пароль:${generatePassword()}`);
+        }
+        else 
+        {
+            alert('Пользователь не найден');
+        }
     }
 
     const Button=()=>

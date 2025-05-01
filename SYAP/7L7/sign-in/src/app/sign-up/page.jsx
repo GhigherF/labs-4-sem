@@ -2,6 +2,13 @@
 import Link from 'next/link';
 import { useState } from 'react';
 
+let UserInfo={
+    email:'',
+    password:'',
+    name:'',
+}
+export let UsersData=[UserInfo,UserInfo];
+
 export default function  SignIn(){ 
     
     const [email,setEmail] = useState('');
@@ -23,7 +30,21 @@ export default function  SignIn(){
     
 function Show()
 {
+    let message=null;
+    UsersData.forEach(element => {
+        if (element.email==email) message = "Аккаунт с таким E-mail уже существует"; else
+        if (element.name==name) message = "Аккаунт с таким именем уже существует";
+    });
+    if (message!=null) alert(message)
+        else{
 alert("Успешная регистрация");
+UserInfo={
+    email:email,
+    password:password,
+    name:name,
+}
+UsersData.push(UserInfo);
+        }
 }
 
 

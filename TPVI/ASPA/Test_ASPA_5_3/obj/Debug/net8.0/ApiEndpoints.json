@@ -27,8 +27,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -42,15 +42,15 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_2",
-    "RelativePath": "A/{x:int:max(100)}",
+    "RelativePath": "A/{x:int:min(0):max(100)}",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -64,15 +64,15 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_4",
-    "RelativePath": "A/{x:int:min(1)}-{y:int:min(1):max(100)}",
+    "RelativePath": "A/{x:int:min(1)}-{y:int:range(1,100)}",
     "HttpMethod": "DELETE",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Int32",
+        "IsRequired": true
       },
       {
         "Name": "y",
@@ -98,8 +98,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Int32",
+        "IsRequired": true
       },
       {
         "Name": "y",
@@ -125,8 +125,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Single, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Single",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -147,8 +147,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Single, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Single",
+        "IsRequired": true
       },
       {
         "Name": "y",
@@ -174,8 +174,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Single, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Single",
+        "IsRequired": true
       },
       {
         "Name": "y",
@@ -201,8 +201,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Boolean",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -223,8 +223,8 @@
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.Boolean",
+        "IsRequired": true
       },
       {
         "Name": "y",
@@ -243,15 +243,15 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_10",
-    "RelativePath": "D/{x:DateTime}",
+    "RelativePath": "D/{x:datetime}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.DateTime",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -265,15 +265,15 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_11",
-    "RelativePath": "D/{x:DateTime}|{y:DateTime}",
+    "RelativePath": "D/{x:datetime}|{y:datetime}",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
         "Name": "x",
-        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
+        "Type": "System.DateTime",
+        "IsRequired": true
       },
       {
         "Name": "y",
@@ -292,7 +292,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_13",
-    "RelativePath": "E/{x:alpha:minlength(2):maxlength(12)}",
+    "RelativePath": "E/{x:regex(^[a-zA-Z]{{2,12}}$)}",
     "HttpMethod": "PUT",
     "IsController": false,
     "Order": 0,
@@ -314,7 +314,7 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_12",
-    "RelativePath": "E/12-{x:required}",
+    "RelativePath": "E/12-{x}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -336,8 +336,8 @@
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003CMain\u003Eb__0_14",
-    "RelativePath": "F/{x:regex(^[a-zA-Z0-9!#$%^\u0026*]\u002B@.\u002B\\.by$)}",
-    "HttpMethod": "PUT",
+    "RelativePath": "F/{x:regex(^[a-zA-Z0-9._%\u002B-]\u002B@[a-zA-Z0-9.-]\u002B\\.by$)}",
+    "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
     "Parameters": [

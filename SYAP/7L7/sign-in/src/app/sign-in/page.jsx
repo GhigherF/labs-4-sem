@@ -1,6 +1,8 @@
 'use client'
 import Link from 'next/link';
 import { useState } from 'react';
+import {UsersData} from '../sign-up/page'
+
 
 export default function  SignIn(){ 
 
@@ -13,7 +15,37 @@ export default function  SignIn(){
   
 function Show()
 {
-alert("Вход выполнен");
+  let flag=false;
+
+
+  UsersData.forEach((element)=>
+  {
+    if(element.email==email)
+    {
+      flag=true;
+    }
+  })
+
+  if (flag==false)
+  {
+    alert("Пользователь не найден");
+  }
+  else
+  {
+    flag=false;
+    UsersData.forEach((element)=>
+    {
+      if(element.email==email&&element.password==password)
+      {
+        flag=true;
+      }
+    })
+    if (flag==false)
+    {
+      alert("Неверный пароль");
+    }
+    else alert("Вход выполнен");
+  }
 }
 
   const Email=(event)=>
