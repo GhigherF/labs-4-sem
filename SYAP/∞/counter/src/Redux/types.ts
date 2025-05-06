@@ -6,6 +6,7 @@ export interface State {
 
   export interface IncrementAction extends Action<'INCREMENT'> {}
   export interface DecrementAction extends Action<'DECREMENT'> {}
+  export interface Reset extends Action<'RESET'>{}
   
-  export type CounterActionTypes = IncrementAction | DecrementAction;
+  export type CounterActionTypes = IncrementAction | DecrementAction|Reset;
   
