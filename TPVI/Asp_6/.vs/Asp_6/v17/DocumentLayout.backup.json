@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{587F8768-3DF9-4C0B-8E31-D3ED25C5BF81}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\asp_6\\dal_celebrity_mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587F8768-3DF9-4C0B-8E31-D3ED25C5BF81}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587F8768-3DF9-4C0B-8E31-D3ED25C5BF81}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\asp_6\\dal_celebrity_mssql\\dal_celebrity_mssql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{587F8768-3DF9-4C0B-8E31-D3ED25C5BF81}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\dal_celebrity_mssql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E45CC0-F21E-4B6A-B9D2-FBA3B9CC24D4}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\asp_6\\dal_celebrity\\dal_celebrity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6E45CC0-F21E-4B6A-B9D2-FBA3B9CC24D4}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E45CC0-F21E-4B6A-B9D2-FBA3B9CC24D4}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\asp_6\\dal_celebrity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E45CC0-F21E-4B6A-B9D2-FBA3B9CC24D4}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E45CC0-F21E-4B6A-B9D2-FBA3B9CC24D4}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\asp_6\\dal_celebrity\\dal_celebrity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B6E45CC0-F21E-4B6A-B9D2-FBA3B9CC24D4}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC453F6-CABA-445C-BB7B-769AEC251C6B}|Asp_6\\Asp_6.csproj|c:\\users\\ghigher\\desktop\\labs-4-sem\\tpvi\\asp_6\\asp_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC453F6-CABA-445C-BB7B-769AEC251C6B}|Asp_6\\Asp_6.csproj|solutionrelative:asp_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghigher\\Downloads\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_06_ASPNETCORE_DAL_Celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:965134208:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL_Celebrity",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T06:10:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL_Celebrity_MSSQL",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T06:07:42.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL_Celebrity",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T06:05:59.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity_MSSQL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Class1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity_MSSQL\\Class1.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:02:06.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\Class1.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\DAL_Celebrity\\Class1.cs",
+              "RelativeToolTip": "DAL_Celebrity\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_06_ASPNETCORE_DAL_Celebrity.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Downloads\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_06_ASPNETCORE_DAL_Celebrity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_06_ASPNETCORE_DAL_Celebrity.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Downloads\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_06_ASPNETCORE_DAL_Celebrity.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_06_ASPNETCORE_DAL_Celebrity.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAzwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:56:13.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\Asp_6\\Program.cs",
+              "RelativeDocumentMoniker": "Asp_6\\Program.cs",
+              "ToolTip": "C:\\Users\\ghigher\\Desktop\\labs-4-sem\\TPVI\\Asp_6\\Asp_6\\Program.cs",
+              "RelativeToolTip": "Asp_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:55:42.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

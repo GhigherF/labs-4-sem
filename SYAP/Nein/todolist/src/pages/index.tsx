@@ -4,8 +4,8 @@ import ToDoList  from "./ToDo";
 
 export default function Home() {
   return (
-    <Provider store={store}>
+       <Provider store={store}>
       <ToDoList/>
-    </Provider>
+   </Provider>
   );
 }
